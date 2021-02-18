@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/elyas/Documents/GitHub/pathfinding_project/pathway.cpp
+iostream
+-
+fstream
+-
+xstring
+-
+set
+-
+stack
+-
+
